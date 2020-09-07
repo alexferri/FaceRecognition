@@ -1,0 +1,5 @@
+MYSQL_USER = 'b94vddji2z3wlzcr'
+MYSQL_PASSWORD = 'jqzbd3z410zi8nmc'
+MYSQL_HOST = 'hcm4e9frmbwfez47.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+MYSQL_DB = 'txszv0bngqsh788s'
+MYSQL_CURSORCLASS = 'DictCursor'
